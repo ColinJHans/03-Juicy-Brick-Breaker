@@ -4,20 +4,20 @@
 A Juicy block breaker
 
 ## Implementation
-Music
-Screenshake
-Animated Ball when it hits a block
-Sound effects
-Ball has a trail
-Paddle has eyes
-Animated smile on paddle
-Eyes follow ball
+Music\n
+Screenshake\n
+Animated Ball when it hits a block\n
+Sound effects\n
+Ball has a trail\n
+Paddle has eyes\n
+Animated smile on paddle\n
+Eyes follow ball\n
 ## References
-[Juice it or Lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
-[Font](https://godotengine.org/asset-library/asset/316)
-[Smoke particles](https://kenney.nl/assets/smoke-particles) provided by kenney.nl
-All other sprites created by Jason Francis in Photoshop
-Music and sound effects created by the author
+[Juice it or Lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)\n
+[Font](https://godotengine.org/asset-library/asset/316)\n
+[Smoke particles](https://kenney.nl/assets/smoke-particles) provided by kenney.nl\n
+All other sprites created by Jason Francis in Photoshop\n
+Music and sound effects created by the author\n
 ## Future Development
 n/a
 ## Created by
