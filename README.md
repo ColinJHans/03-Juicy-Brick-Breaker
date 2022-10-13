@@ -28,7 +28,7 @@ An extravagant brick breaker game
 	 * [Fireworks by Tsar333](https://godotshaders.com/shader/fireworks/)
 	 * [2D Procedural Water by flytrap](https://godotshaders.com/shader/perlin-procedural-water/)
 ## Future Development
-Adding more levels
-Extending the music
+* Adding more levels
+* Extending the music
 ## Created by
 Colin Hans
